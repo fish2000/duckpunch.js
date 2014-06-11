@@ -1,0 +1,39 @@
+{
+    "author": {
+        "email": "fish2000@gmail.com",
+        "name": "Alexander B\u00f6hn"
+    },
+    "bugs": {
+        "url": "https://github.com/fish2000/duckpunch/issues"
+    },
+    "contributors": [
+        {
+            "email": "fish2000@gmail.com",
+            "name": "Alexander B\u00f6hn"
+        }
+    ],
+    "dependencies": {
+        "jshashes": ">= 1.0.5",
+        "underscore": ">= 1.2.0"
+    },
+    "description": "Missing methods for JavaScript builtins",
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "homepage": "https://github.com/fish2000/duckpunch",
+    "keywords": [
+        "duckpunch",
+        "prototype",
+        "object",
+        "builtins"
+    ],
+    "license": "ISC",
+    "main": "duckpunch.js",
+    "name": "duckpunch",
+    "readme": "duckpunch.js\n============\n\nMissing methods for JavaScript builtins.\n",
+    "readmeFilename": "README.md",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "0.1.0"
+}
