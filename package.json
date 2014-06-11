@@ -30,7 +30,7 @@
     "license": "ISC",
     "main": "duckpunch.js",
     "name": "duckpunch",
-    "readme": "duckpunch.js\n============\n\nMissing methods for JavaScript builtins.\n\nhttps://www.npmjs.org/package/duckpunch\n",
+    "readme": "duckpunch.js\n============\n\nMissing methods for JavaScript builtins.\n\n[![NPM](https://nodei.co/npm/duckpunch.png)](https://nodei.co/npm/duckpunch/)\n",
     "readmeFilename": "README.md",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"

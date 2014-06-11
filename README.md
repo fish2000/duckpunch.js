@@ -3,4 +3,4 @@ duckpunch.js
 
 Missing methods for JavaScript builtins.
 
-https://www.npmjs.org/package/duckpunch
+[![NPM](https://nodei.co/npm/duckpunch.png)](https://nodei.co/npm/duckpunch/)
